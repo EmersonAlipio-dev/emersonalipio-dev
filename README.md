@@ -5,3 +5,14 @@
 </div>
 
 Bem-vindo ao meu perfil — aqui você vai ver projetos, experimentos e um pouco das minhas ideias.
+
+---
+
+### 🐍 Minhas contribuições em forma de cobrinha
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmersonAlipio-dev/emersonalipio-dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmersonAlipio-dev/emersonalipio-dev/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação da cobrinha nas contribuições" src="https://raw.githubusercontent.com/EmersonAlipio-dev/emersonalipio-dev/output/github-contribution-grid-snake.svg" />
+</picture>
+
