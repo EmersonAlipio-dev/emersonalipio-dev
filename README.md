@@ -6,7 +6,7 @@
 <div align="center">
 Bem-vindo ao meu perfil! Aqui você vai ver projetos, experimentos e um pouco das minhas ideias.
 </div>
----
+
 
 ### 🐍 Minhas contribuições 
 
