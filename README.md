@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil — aqui você vai ver projetos, experimentos e um pouco
 
 ---
 
-### 🐍 Minhas contribuições em forma de cobrinha
+### 🐍 Minhas contribuições 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmersonAlipio-dev/emersonalipio-dev/output/github-contribution-grid-snake-dark.svg" />
